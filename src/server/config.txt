@@ -1,0 +1,6 @@
+9999
+127.0.0.1
+ban1
+ban2
+ban3
+banned phrase
